@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rrtest/static/css/main.9a15241b.css",
+    "main.js": "/rrtest/static/js/main.43fe4157.js",
+    "index.html": "/rrtest/index.html",
+    "main.9a15241b.css.map": "/rrtest/static/css/main.9a15241b.css.map",
+    "main.43fe4157.js.map": "/rrtest/static/js/main.43fe4157.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a15241b.css",
+    "static/js/main.43fe4157.js"
+  ]
+}
